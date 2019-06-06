@@ -1,17 +1,7 @@
-//
-//  AppDelegate.swift
-//  CCH-SwiftUI
-//
-//  Created by Baz Scott on 5/6/19.
-//  Copyright © 2019 Baz Scott. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
